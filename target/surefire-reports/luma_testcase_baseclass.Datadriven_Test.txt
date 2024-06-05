@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: luma_testcase_baseclass.Datadriven_Test
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 60.20 s -- in luma_testcase_baseclass.Datadriven_Test
